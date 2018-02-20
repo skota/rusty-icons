@@ -1,0 +1,20 @@
+Utility similar to ticons
+
+- accepts command line args
+    - task type - create splashes or icons
+    - if splashes - image or color code
+    - if icons - locaton to starter image
+    - output dir
+
+ - if no arguments are given - show usage message
+
+
+ - for icons - ensure starter image has correct size for ios/android
+
+ - if all arguments are correct, next try and create splashes/icons 
+
+ 
+
+
+    
+        

@@ -1,0 +1,7 @@
+[package]
+name = "imgflip"
+version = "0.1.0"
+authors = ["skota <sriramkota@yahoo.com>"]
+
+[dependencies]
+image = "0.18.0"
